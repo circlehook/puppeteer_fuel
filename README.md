@@ -1,5 +1,5 @@
 # puppeteer_fuel
-fuel price parser in Dnipro city, Ukraine
+Fuel price parser in Dnipro city, Ukraine. Gas stations: Avias, WOG, OKKO.
 
 
 1. To use Puppeteer in your project, run:
